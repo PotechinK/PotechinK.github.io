@@ -1,5 +1,3 @@
-alert("動いた");
-
 let heading = document.getElementById('heading');
 let degree = 0;
 function rotateHeading(){
