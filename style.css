@@ -2,6 +2,10 @@
         全体
 -------------------- */
 
+body {
+  font-family: "Yomogi", sans-serif;
+}
+
 :root {
   --theme-color: #0050a0;
 }
