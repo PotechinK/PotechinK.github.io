@@ -1,7 +1,7 @@
 let heading = document.getElementById('heading');
 let degree = 0;
 function rotateHeading(){
-  degree = degree +2;
+  degree = degree +3;
   degree = degree % 360;
   if(90 < degree && degree <= 270){
     heading.setAttribute('class', 'back');
