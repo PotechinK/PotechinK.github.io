@@ -2,6 +2,10 @@
         全体
 -------------------- */
 
+.ai-profile {
+  border-radius: 30px;
+}
+
 body {
   font-family: "Yomogi", sans-serif;
 }
